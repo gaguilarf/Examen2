@@ -17,7 +17,6 @@ class ButtonManagment(context: Context) {
     //stilo para botones
     private val buttonPaint = Paint().apply {
         color = Color.BLACK
-        style = Paint.Style.FILL
         isAntiAlias = true
     }
 

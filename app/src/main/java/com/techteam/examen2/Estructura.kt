@@ -20,6 +20,7 @@ class Estructura constructor(
 
     val simpleLine = Paint().apply {
         color = Color.BLACK
+        style = Paint.Style.STROKE
         isAntiAlias = true
     }
 

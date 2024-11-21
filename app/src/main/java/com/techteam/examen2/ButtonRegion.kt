@@ -12,13 +12,13 @@ class ButtonRegion (val centerX: Float,
                     private val context: Context
 ) {
     private val buttonPaint = Paint().apply {
-        color = Color.BLACK
+        color = Color.GREEN
         style = Paint.Style.FILL
         isAntiAlias = true
     }
 
     private val buttonText = Paint().apply {
-        color = Color.GREEN
+        color = Color.BLACK
         textSize = TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_SP, 6f, context.resources.displayMetrics)
         isAntiAlias = true
     }
