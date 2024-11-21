@@ -1,0 +1,36 @@
+{
+  "area1" : [
+    {
+      "centerX": 300.0,
+      "centerY": 125.0,
+      "text": "P1"
+    },
+    {
+      "centerX": 600.0,
+      "centerY": 125.0,
+      "text": "P2"
+    }
+  ],
+  "area2" : [
+    {
+      "centerX": 100.0,
+      "centerY": 350.0,
+      "text": "P3"
+    },
+    {
+      "centerX": 300.0,
+      "centerY": 500.0,
+      "text": "P4"
+    },
+    {
+      "centerX": 600.0,
+      "centerY": 500.0,
+      "text": "P5"
+    },
+    {
+      "centerX": 100.0,
+      "centerY": 350.0,
+      "text": "P6"
+    }
+  ]
+}
